@@ -1,0 +1,13 @@
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\bin\Debug\Odev2_cift_yonlu_Link_List.exe.config
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\bin\Debug\Odev2_cift_yonlu_Link_List.exe
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\bin\Debug\Odev2_cift_yonlu_Link_List.pdb
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.Form1.resources
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.exe
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\bin\Debug\Odev2_cift_yonlu_Link_List.exe.config
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List\obj\Debug\Odev2_cift_yonlu_Link_List.pdb

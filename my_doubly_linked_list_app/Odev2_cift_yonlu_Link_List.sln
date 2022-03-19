@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2_cift_yonlu_Link_List", "Odev2_cift_yonlu_Link_List\Odev2_cift_yonlu_Link_List.csproj", "{C4655DF5-8037-40E9-BB07-C8ABAE768EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4655DF5-8037-40E9-BB07-C8ABAE768EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4655DF5-8037-40E9-BB07-C8ABAE768EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4655DF5-8037-40E9-BB07-C8ABAE768EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4655DF5-8037-40E9-BB07-C8ABAE768EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A231301-3E8E-4A15-B463-18BEBD68558D}
+	EndGlobalSection
+EndGlobal
